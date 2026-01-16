@@ -1,0 +1,7 @@
+{
+  "name": "Endo-sérénité - Accompagnement Endométriose",
+  "description": "Une application bienveillante pour mieux vivre avec l'endométriose au quotidien : nutrition anti-inflammatoire, forum communautaire et entraide locale.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
